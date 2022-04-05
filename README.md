@@ -2,9 +2,9 @@
 
 Goal:  Merge pdf's that start with the same site name (e.g. "site00123_1.pdf", "site00123_2.pdf", "site00123_3.pdf") and output using the site name (e.g. "site00123.pdf").  All site pdf's are located in a single folder.
 
-Steps:
-Identify unique site names in folder (append to a list?)
-Gather pdf's with same site name (append to a list?)
+Steps:\
+Identify unique site names in folder (append to a list?)\
+Gather pdf's with same site name (append to a list?)\
 Merge pdf's with same site name, and name the output pdf with the site name.
 
 
