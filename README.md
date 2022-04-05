@@ -9,7 +9,7 @@ Merge pdf's with same site name, and name the output pdf with the site name.
 
 
 Examples:
-https://stackoverflow.com/questions/3444645/merge-pdf-files
+https://stackoverflow.com/questions/3444645/merge-pdf-files \
 https://stackoverflow.com/questions/63758510/merging-pdf-files-starting-with-similar-names-in-a-directory
 
 
