@@ -10,7 +10,9 @@ Merge pdf's with same site name, and name the output pdf with the site name.
 
 Examples:
 https://stackoverflow.com/questions/3444645/merge-pdf-files \
-https://stackoverflow.com/questions/63758510/merging-pdf-files-starting-with-similar-names-in-a-directory
+https://stackoverflow.com/questions/63758510/merging-pdf-files-starting-with-similar-names-in-a-directory \
+https://www.reddit.com/r/learnpython/comments/9qrvyf/merge_pdfs_based_on_part_of_the_file_name/ \
+https://stackoverflow.com/questions/7111273/how-to-batch-merger-pdf-documents \
 
 
 PyPDF2:  https://pypi.org/project/PyPDF2/
