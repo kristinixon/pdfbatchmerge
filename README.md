@@ -25,7 +25,8 @@ pdftk Server:  https://www.pdflabs.com/tools/pdftk-server/
 
 Basic merge ("catenate") operation in cmd: 
 ::change working directory
-
 C:\Users\knixon>cd C:\Users\knixon\Desktop\mapmaker
+
 ::run pdftk cat command
+
 C:\Users\knixon\Desktop\mapmaker>pdftk site_00005.01.pdf site_00005.02.pdf site_00005.03.pdf cat output site_00005.pdf
