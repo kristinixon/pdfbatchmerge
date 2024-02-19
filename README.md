@@ -22,6 +22,7 @@ check:  pip list
 
 OR USE pdftk in command line or python
 pdftk Server:  https://www.pdflabs.com/tools/pdftk-server/
+Check in cmd if python is installed.  Just type "python"
 
 Basic merge ("catenate") operation in cmd: 
 
