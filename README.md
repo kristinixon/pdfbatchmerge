@@ -23,7 +23,6 @@ check:  pip list
 OR USE pdftk in command line or python
 pdftk Server:  https://www.pdflabs.com/tools/pdftk-server/
 
-
 Basic merge ("catenate") operation in cmd: 
 ::change working directory
 
