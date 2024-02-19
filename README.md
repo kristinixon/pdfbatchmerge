@@ -23,7 +23,7 @@ check:  pip list
 OR USE pdftk in command line or python
 pdftk Server:  https://www.pdflabs.com/tools/pdftk-server/
 
-Basic merge ("catenate") operation in cmd:
+Basic merge ("catenate") operation in cmd: 
 ::change working directory
 C:\Users\knixon>cd C:\Users\knixon\Desktop\mapmaker
 ::run pdftk cat command
