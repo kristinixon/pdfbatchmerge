@@ -4,7 +4,7 @@ Goal:  Merge pdf's that start with the same site name (e.g. "site00123_1.pdf", "
 
 Steps:\
 Identify unique site names in folder (append to a list?)\
-Gather pdf's with same site name (append to a list?)\
+Gather pdf's with same site name/number (loop with a counter and have a variable that stores the current site number?)\
 Merge pdf's with same site name, and name the output pdf with the site name.
 
 
