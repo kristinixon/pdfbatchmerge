@@ -28,4 +28,13 @@ Basic merge ("catenate") operation in cmd: \
 ::change working directory \
 C:\Users\knixon>cd C:\Users\knixon\Desktop\mapmaker \
 ::run pdftk cat command \
-C:\Users\knixon\Desktop\mapmaker>pdftk site_00005.01.pdf site_00005.02.pdf site_00005.03.pdf cat output site_00005.pdf
+C:\Users\knixon\Desktop\mapmaker>pdftk site_00005.01.pdf site_00005.02.pdf site_00005.03.pdf cat output site_00005.pdf \
+
+\
+
+Python code test:\
+import os\
+files = os.listdir(r"C:\Users\knixon\Desktop\mapmaker\test")\
+files.sort\
+files\
+
